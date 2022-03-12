@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9A6889Bfe78f7Da651476c0F25cdEf6E7ce09153",
+  "SCAN_LINK": "https://polygonscan.com/address/0x9a6889bfe78f7da651476c0f25cdef6e7ce09153",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dizzy Piglets",
+  "SYMBOL": "DPNFT",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dizzy-piglets",
+  "SHOW_BACKGROUND": true
+}
